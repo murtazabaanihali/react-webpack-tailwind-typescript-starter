@@ -10,7 +10,9 @@ A minimal and efficient starter template for building React applications with We
 - **Hot Module Replacement**: Instant feedback on changes during development.
 
 ## Usage:
-1. Clone the repository: `git clone https://github.com/murtazabaanihali/react-webpack-tailwind-typescript-starter.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Build for production: `npm run build`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/murtazabaanihali/react-webpack-tailwind-typescript-starter.git
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Build for production: `npm run build`
